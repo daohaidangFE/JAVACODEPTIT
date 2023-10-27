@@ -6,7 +6,7 @@ public class J07002 {
         long sum = 0;
         int num = 0;
         String tmp = "";
-        while(true) {z
+        while(true) {
             int i = in.read();
             if(i == -1) {
                 break;
